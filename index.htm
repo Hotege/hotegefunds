@@ -12,15 +12,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <title>Hotege's Funds</title>
 <![if !supportTabStrip]>
 <link id="shLink" href="index.files/sheet001.htm">
+<link id="shLink" href="index.files/sheet002.htm">
 
 <link id="shLink">
 
 <script language="JavaScript">
 <!--
- var c_lTabs=1;
+ var c_lTabs=2;
 
  var c_rgszSh=new Array(c_lTabs);
  c_rgszSh[0] = "第1期";
+ c_rgszSh[1] = "净值统计";
 
 
 
@@ -50,7 +52,7 @@ function fnGetIEVer()
 function fnBuildFrameset()
 {
  var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
+  "<frame src=\""+document.all.item("shLink")[1].href+"\" name=\"frSheet\" noresize>"+
   "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
   "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
   "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
@@ -301,12 +303,17 @@ function fnSetActiveSheet(iSh)
     <x:Name>第1期</x:Name>
     <x:WorksheetSource HRef="index.files/sheet001.htm"/>
    </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>净值统计</x:Name>
+    <x:WorksheetSource HRef="index.files/sheet002.htm"/>
+   </x:ExcelWorksheet>
   </x:ExcelWorksheets>
   <x:Stylesheet HRef="index.files/stylesheet.css"/>
   <x:WindowHeight>7605</x:WindowHeight>
   <x:WindowWidth>19395</x:WindowWidth>
   <x:WindowTopX>600</x:WindowTopX>
   <x:WindowTopY>105</x:WindowTopY>
+  <x:ActiveSheet>1</x:ActiveSheet>
   <x:ProtectStructure>False</x:ProtectStructure>
   <x:ProtectWindows>False</x:ProtectWindows>
  </x:ExcelWorkbook>
@@ -314,7 +321,7 @@ function fnSetActiveSheet(iSh)
 </head>
 
 <frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="index.files/sheet001.htm" name="frSheet">
+ <frame src="index.files/sheet002.htm" name="frSheet">
  <frame src="index.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
  <noframes>
   <body>
