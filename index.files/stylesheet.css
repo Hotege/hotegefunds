@@ -716,17 +716,18 @@ td
 	mso-pattern:black none;}
 .xl146
 	{mso-style-parent:style0;
+	color:#C8C8C8;
 	font-weight:700;
-	text-align:center;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:1.0pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	background:#B2A1C7;
+	mso-number-format:"0\.0000_ ";
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:none;
+	border-left:none;
+	background:black;
 	mso-pattern:black none;}
 .xl147
 	{mso-style-parent:style0;
-	mso-number-format:"0\.0000%";
+	font-weight:700;
 	text-align:center;
 	border-top:.5pt solid windowtext;
 	border-right:.5pt solid windowtext;
@@ -736,6 +737,16 @@ td
 	mso-pattern:black none;}
 .xl148
 	{mso-style-parent:style0;
+	mso-number-format:"0\.0000%";
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#B2A1C7;
+	mso-pattern:black none;}
+.xl149
+	{mso-style-parent:style0;
 	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:1.5pt solid windowtext;
@@ -743,7 +754,7 @@ td
 	background:#B6DDE8;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl149
+.xl150
 	{mso-style-parent:style0;
 	border-top:none;
 	border-right:1.5pt solid windowtext;
@@ -752,7 +763,7 @@ td
 	background:#B6DDE8;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl150
+.xl151
 	{mso-style-parent:style0;
 	font-weight:700;
 	mso-number-format:"\@";
@@ -763,7 +774,7 @@ td
 	border-left:1.5pt solid windowtext;
 	background:#C5BE97;
 	mso-pattern:black none;}
-.xl151
+.xl152
 	{mso-style-parent:style0;
 	font-weight:700;
 	mso-number-format:"\@";
@@ -774,7 +785,7 @@ td
 	border-left:.5pt solid windowtext;
 	background:#C5BE97;
 	mso-pattern:black none;}
-.xl152
+.xl153
 	{mso-style-parent:style0;
 	font-weight:700;
 	mso-number-format:"\@";
@@ -785,7 +796,7 @@ td
 	border-left:.5pt solid windowtext;
 	background:#C5BE97;
 	mso-pattern:black none;}
-.xl153
+.xl154
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
@@ -795,42 +806,42 @@ td
 	border-left:.5pt solid windowtext;
 	background:#7F7F7F;
 	mso-pattern:black none;}
-.xl154
+.xl155
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#4BACC6;
 	mso-pattern:black none;}
-.xl155
+.xl156
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#538ED5;
 	mso-pattern:black none;}
-.xl156
+.xl157
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#C2D69A;
 	mso-pattern:black none;}
-.xl157
+.xl158
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#FAC090;
 	mso-pattern:black none;}
-.xl158
+.xl159
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#D99795;
 	mso-pattern:black none;}
-.xl159
+.xl160
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:center;
@@ -840,7 +851,7 @@ td
 	border-left:.5pt solid windowtext;
 	background:#D99795;
 	mso-pattern:black none;}
-.xl160
+.xl161
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:center;
@@ -850,7 +861,7 @@ td
 	border-left:.5pt solid windowtext;
 	background:#B2A1C7;
 	mso-pattern:black none;}
-.xl161
+.xl162
 	{mso-style-parent:style0;
 	color:#F5FDA6;
 	font-weight:700;
@@ -862,7 +873,7 @@ td
 	border-left:1.5pt solid white;
 	background:black;
 	mso-pattern:black none;}
-.xl162
+.xl163
 	{mso-style-parent:style0;
 	color:#F5FDA6;
 	font-weight:700;
@@ -874,7 +885,7 @@ td
 	border-left:.5pt solid white;
 	background:black;
 	mso-pattern:black none;}
-.xl163
+.xl164
 	{mso-style-parent:style0;
 	color:#F5FDA6;
 	font-weight:700;
