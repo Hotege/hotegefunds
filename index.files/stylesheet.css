@@ -903,3 +903,24 @@ td
 	border-left:.5pt solid white;
 	background:black;
 	mso-pattern:black none;}
+.xl165
+	{mso-style-parent:style0;
+	color:#C8C8C8;
+	font-weight:700;
+	mso-number-format:"0\.0000_ ";
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:1.5pt solid white;
+	border-left:.5pt solid white;
+	background:black;
+	mso-pattern:black none;}
+.xl166
+	{mso-style-parent:style0;
+	color:white;
+	mso-number-format:Percent;
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:1.5pt solid white;
+	border-left:.5pt solid white;
+	background:black;
+	mso-pattern:black none;}
