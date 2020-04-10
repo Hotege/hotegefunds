@@ -686,32 +686,10 @@ td
 	color:white;
 	font-weight:700;
 	mso-number-format:"\@";
-	border-top:.5pt solid white;
-	border-right:1.0pt solid white;
-	border-bottom:1.5pt solid white;
-	border-left:1.5pt solid white;
-	background:black;
-	mso-pattern:black none;}
-.xl143
-	{mso-style-parent:style0;
-	color:white;
-	font-weight:700;
-	mso-number-format:"\@";
-	border-top:none;
-	border-right:.5pt solid #272727;
-	border-bottom:.5pt solid #272727;
-	border-left:.5pt solid #272727;
-	background:black;
-	mso-pattern:black none;}
-.xl144
-	{mso-style-parent:style0;
-	color:white;
-	font-weight:700;
-	mso-number-format:"\@";
 	border:.5pt solid #272727;
 	background:black;
 	mso-pattern:black none;}
-.xl145
+.xl143
 	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
@@ -722,7 +700,7 @@ td
 	border-left:1.5pt solid white;
 	background:black;
 	mso-pattern:black none;}
-.xl146
+.xl144
 	{mso-style-parent:style0;
 	color:white;
 	border-top:.5pt solid white;
@@ -731,7 +709,7 @@ td
 	border-left:.5pt solid white;
 	background:black;
 	mso-pattern:black none;}
-.xl147
+.xl145
 	{mso-style-parent:style0;
 	color:#C8C8C8;
 	font-weight:700;
@@ -742,7 +720,7 @@ td
 	border-left:.5pt solid white;
 	background:black;
 	mso-pattern:black none;}
-.xl148
+.xl146
 	{mso-style-parent:style0;
 	color:white;
 	mso-number-format:Percent;
@@ -750,6 +728,28 @@ td
 	border-right:.5pt solid white;
 	border-bottom:1.5pt solid white;
 	border-left:.5pt solid white;
+	background:black;
+	mso-pattern:black none;}
+.xl147
+	{mso-style-parent:style0;
+	color:#C8C8C8;
+	font-weight:700;
+	mso-number-format:"0\.0000_ ";
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:none;
+	border-left:none;
+	background:black;
+	mso-pattern:black none;}
+.xl148
+	{mso-style-parent:style0;
+	color:white;
+	font-weight:700;
+	mso-number-format:"\@";
+	border-top:1.5pt solid white;
+	border-right:.5pt solid #272727;
+	border-bottom:.5pt solid #272727;
+	border-left:.5pt solid #272727;
 	background:black;
 	mso-pattern:black none;}
 .xl149
